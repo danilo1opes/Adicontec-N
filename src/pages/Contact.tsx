@@ -83,7 +83,7 @@ export function Contact() {
 
             <div className="rounded-lg overflow-hidden shadow-xl">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3821.9761234567891!2d-49.2345678!3d-16.7890123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTbCsDQ3JzIwLjQiUyA0OcKwMTQnMDQuNCJX!5e0!3m2!1spt-BR!2sbr!4v1234567890123!5m2!1spt-BR!2sbr"
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d238.6816242885247!2d-49.222588347808696!3d-16.83101930509077!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935efd0bf3ccf921%3A0x40c0901bf2bc7be0!2sAdicontec%20Ingredientes!5e0!3m2!1sen!2sbr!4v1739886749115!5m2!1sen!2sbr"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '400px' }}
